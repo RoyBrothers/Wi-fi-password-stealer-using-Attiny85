@@ -1,6 +1,3 @@
-/*
-  Following payload will grab saved Wifi password and will send them to your hosted webhook.
-*/
 
 #include "DigiKeyboard.h"
 
