@@ -3,7 +3,9 @@
 Steps :
 ----------
 i) Download Arduino software on your computer 
+
 ii) Download the Driver using this link: ( https://github.com/digistump/DigistumpArduino/releases )
+
 iii) Add this (https://raw.githubusercontent.com/digistump/arduino-boards-index/master/package_digistump_index.json) link to your Arduino software 
 
 ( Go to file -> preferences -> Additional boards manager URLs -> ok ) 
@@ -11,7 +13,9 @@ iii) Add this (https://raw.githubusercontent.com/digistump/arduino-boards-index/
 ![arduino jpg](https://github.com/RoyBrothers/Wi-fi-password-stealer-using-Attiny85/assets/93693542/69a05de0-e5a2-4674-93c8-3f758fd92740)
 
 iv) Go to tools -> Boards manager -> in search bar type ( Digistump AVR Boards by Digistump ) -> install it 
+
 v) paste the code on Arduino software -> compile the code -> upload the code on your Attiny85 device
+
 vi) After uploading the code -> plug out the device -> then plug in again -> Then you will see the script is automatically running on your computer 
 
 Like this :
