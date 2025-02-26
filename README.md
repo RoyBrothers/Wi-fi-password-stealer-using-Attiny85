@@ -1,4 +1,4 @@
-## Wi fi Password Stealer using Attiny85
+## Wifi Password Stealer using Attiny85
 
 Steps :
 ----------
